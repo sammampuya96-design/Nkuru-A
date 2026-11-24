@@ -1,0 +1,2 @@
+# Nkuru Academy
+school portal
